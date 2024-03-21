@@ -1,0 +1,14 @@
+awake;awoke;awoken;uyanmak
+be;was, were;been;olmak
+beat;beat;beaten;vurmak
+become;became;become;olmak
+begin;began;begun;baþlamak
+bend;bent;bent;bükmek
+bet;bet;bet;bahse girmek
+bid;bid;bid;emretmek
+bite;bit;bitten;ýsýrmak
+blow;blew;blown;esmek
+break;broke;broken;kýrmak
+bring;brought;brought;getirmek
+broadcast;broadcast;broadcast;yayýmlamak
+build;built;built;inþa etmek

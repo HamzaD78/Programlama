@@ -1,0 +1,38 @@
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.exe.config
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.exe
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.pdb
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csprojAssemblyReference.cache
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Form1.resources
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Properties.Resources.resources
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.GenerateResource.cache
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.CoreCompileInputs.cache
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.exe
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.pdb
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Form2.resources
+C:\Users\pc_copat\Desktop\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.deneme.resources
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.exe.config
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.exe
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.pdb
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.deneme.resources
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Form1.resources
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Form2.resources
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Properties.Resources.resources
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.GenerateResource.cache
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.CoreCompileInputs.cache
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.exe
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.pdb
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.AssemblyReference.cache
+D:\Ders Notları\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.SuggestedBindingRedirects.cache
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.exe.config
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.exe
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\bin\Debug\uyg_01.pdb
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.AssemblyReference.cache
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.SuggestedBindingRedirects.cache
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.deneme.resources
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Form1.resources
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Form2.resources
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.Properties.Resources.resources
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.GenerateResource.cache
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.csproj.CoreCompileInputs.cache
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.exe
+E:\GörselProgramlama\2018-2019 Bahar Dönemi\uyg_01\uyg_01\obj\Debug\uyg_01.pdb
